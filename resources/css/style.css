@@ -15,3 +15,26 @@ body {
   background-color: black;
   text-align: center;
 }
+
+h2 {
+  color: white;
+  font-family: verdana;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h3 {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+}
+
+div {
+  color: gray;
+  text-align: right;
+}
